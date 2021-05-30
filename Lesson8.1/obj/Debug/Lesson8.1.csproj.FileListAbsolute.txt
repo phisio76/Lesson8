@@ -1,0 +1,10 @@
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\bin\Debug\Lesson8.1.exe.config
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\bin\Debug\Lesson8.1.exe
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\bin\Debug\Lesson8.1.pdb
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\obj\Debug\Lesson8.1.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\obj\Debug\Lesson8._1.Form1.resources
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\obj\Debug\Lesson8._1.Properties.Resources.resources
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\obj\Debug\Lesson8.1.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\obj\Debug\Lesson8.1.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\obj\Debug\Lesson8.1.exe
+C:\Users\Дима\source\repos\Lesson8\Lesson8.1\obj\Debug\Lesson8.1.pdb

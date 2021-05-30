@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8", "Lesson8\Lesson8.csproj", "{879D2069-FE16-4B15-858E-A4AB3D2A4167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8.1", "Lesson8.1\Lesson8.1.csproj", "{002B7A4A-1DB9-48E6-B48F-63701F60C72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{12C04860-13CC-407A-BB50-50E9DFE94C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879D2069-FE16-4B15-858E-A4AB3D2A4167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879D2069-FE16-4B15-858E-A4AB3D2A4167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879D2069-FE16-4B15-858E-A4AB3D2A4167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879D2069-FE16-4B15-858E-A4AB3D2A4167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002B7A4A-1DB9-48E6-B48F-63701F60C72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002B7A4A-1DB9-48E6-B48F-63701F60C72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002B7A4A-1DB9-48E6-B48F-63701F60C72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002B7A4A-1DB9-48E6-B48F-63701F60C72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C04860-13CC-407A-BB50-50E9DFE94C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C04860-13CC-407A-BB50-50E9DFE94C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C04860-13CC-407A-BB50-50E9DFE94C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C04860-13CC-407A-BB50-50E9DFE94C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E42E6BB3-1BBF-47E4-B603-011824AEA844}
+	EndGlobalSection
+EndGlobal
